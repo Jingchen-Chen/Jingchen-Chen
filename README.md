@@ -39,4 +39,4 @@ I am a passionate robotics enthusiast currently pursuing my Master's degree in *
 
 ---
 
-![Jingchen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jingchenchen-robotics&show_icons=true&theme=radical)
+![Jingchen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jingchen-Chen&show_icons=true&theme=radical)
