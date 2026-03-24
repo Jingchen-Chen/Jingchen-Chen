@@ -2,7 +2,7 @@
 
 ### 🤖 Mobile Robotics Master Student @ University of Bonn
 
-I am a passionate robotics enthusiast currently pursuing my Master's degree in **Mobile Robotics** at the **University of Bonn**. 
+I am a robotics enthusiast currently pursuing my Master's degree in **Mobile Robotics** at the **University of Bonn**. 
 
 ### 🛠 Tech Stack
 
