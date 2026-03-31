@@ -13,4 +13,4 @@ I am a robotics enthusiast currently pursuing my Master's degree in **Mobile Rob
 | **Robotics** | ![ROS2](https://img.shields.io/badge/ros2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jingchen-Chen&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jingchen-Chen&layout=compact&hide_langs_threshold=2.5&theme=radical)
